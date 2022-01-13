@@ -1,1 +1,1 @@
-[My Portfolio](https://vineet-dhaimodker.github.io/)
+https://vineet-dhaimodker.github.io/
